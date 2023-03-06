@@ -23,4 +23,4 @@ If there is anything else you need from `flask-migrate` you can run following he
 ## Terminal-client
 This client is a cli application, using the python library [typer](https://typer.tiangolo.com/) for handling the commands.
 
-To handle the peer-to-peer connections, the built-in python library [socker](https://docs.python.org/3/library/socket.html) will be used. 
+To handle the peer-to-peer connections, the built-in python library [socket](https://docs.python.org/3/library/socket.html) will be used. 
