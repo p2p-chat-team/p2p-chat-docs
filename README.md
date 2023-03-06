@@ -8,9 +8,6 @@ This project is split over multiple repositories:
 - [p2p-chat-common](): holds all tools to manage application + repo's. makefile(s), docker, etc...
 - [p2p-chat-docs](https://github.com/p2p-chat-team/p2p-chat-docs): holds documentation on the full application and all repo's
 
-## Infrastructure
-The documentation on the infrastructure of this application is provided in a [separate file](docs/infrastructure.md)
-
 ## Features
 ### Server
 As this chat application works peer-to-peer, there's no need for a server that handles the chatting. 
@@ -29,3 +26,6 @@ The cli client for this peer-to-peer chat application has the following function
 - **Fetch clients**: Display all registered clients who are registered as a contact list.
 - **Manual connect**: Start a chat with another client, by manually providing an ip-address to connect to.
 - **Connect with username**: Start a chat with another client, by providing their username. Their ip-address to connect will be fetched from the server.
+
+## Infrastructure
+The documentation on the infrastructure of this application is provided in a [separate file](docs/infrastructure.md)
