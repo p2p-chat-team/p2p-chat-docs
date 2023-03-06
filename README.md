@@ -27,8 +27,6 @@ The cli client for this peer-to-peer chat application has the following function
 - **Manual connect**: Start a chat with another client, by manually providing an ip-address to connect to.
 - **Connect with username**: Start a chat with another client, by providing their username. Their ip-address to connect will be fetched from the server.
 
-## Infrastructure
-The documentation on the infrastructure of this application is provided in a [separate file](docs/infrastructure.md)
-
-## Models
-To keep this README more organized, the documentation on the `models` are in a [separate file](docs/models.md)
+## [Used technology](docs/used-technology.md)
+## [Infrastructure](docs/infrastructure.md)
+## [Models](docs/models.md)
