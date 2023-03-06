@@ -29,3 +29,6 @@ The cli client for this peer-to-peer chat application has the following function
 
 ## Infrastructure
 The documentation on the infrastructure of this application is provided in a [separate file](docs/infrastructure.md)
+
+## Models
+To keep this README more organized, the documentation on the `models` are in a [separate file](docs/models.md)
